@@ -1,0 +1,6 @@
+[run]
+source = src/fx4f
+omit =
+    tests/*
+    */site-packages/*
+    /usr/local/*

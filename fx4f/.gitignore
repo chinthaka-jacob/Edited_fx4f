@@ -1,0 +1,13 @@
+build/
+dist/
+*.egg-info/
+.vscode/
+__pycache__/
+*.bp
+.bash_history
+.cache/
+.devcontainer/
+.coverage
+htmlcov/
+.pytest_cache/
+.venv/

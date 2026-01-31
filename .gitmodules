@@ -1,0 +1,4 @@
+[submodule "fx4f"]
+	path = fx4f
+	url = https://gitlab.com/fenicsx4flow/fx4f.git
+	branch = main

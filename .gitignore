@@ -1,0 +1,4 @@
+__pycache__/
+*.bp
+.bash_history
+.cache/
